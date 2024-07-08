@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white  ;
+}
+
+body {
+background-image: url('smart-watch.png');
+background-size: cover ;
+}
+
+#navbar {
+    height: 60px;
+    background-color: #0f1111;
+}
+
+button{
+    background-color: #2fd8fa;
+    color: black;
+}
+
+#logo{
+    color: #2fd8fa;
+    font-size: 30px;
+    margin-left:5px;
+}
+
+a{
+    margin-right: 160px ;
+    text-decoration: none;
+}
+
+.home-page-content{
+    text-align:center;
+    padding:20px 200px 400px 200px;
+    font-size:30px;
+    }
+
+#content{
+    background: linear-gradient(90deg, #01aed1d4, #b8fffd);
+    background-clip: text;
+    color: transparent;
+    -webkit-text-stroke: 0.5px rgb(255, 255, 255);
+    
+
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    margin-top: 20px;
+}
